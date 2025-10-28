@@ -1,0 +1,1 @@
+export const saudação = "Boas a tod@s!";
