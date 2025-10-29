@@ -1,0 +1,1 @@
+export const saudação = console.log("Boas a tod@s!");
